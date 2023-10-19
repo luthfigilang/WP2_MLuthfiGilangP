@@ -1,5 +1,5 @@
         <footer>
-        <a href="http://www.RentalBuku.com">Rental Buku</a>
+        <a href="<?php echo base_url().'index.php/web' ?>">Rental Buku</a>
          </footer>
         </div>    
     </body>
